@@ -11,4 +11,6 @@
 
 // TODO: ここでプリコンパイルするヘッダーを追加します
 
+#include "NIDAQmx.h"
+
 #endif //PCH_H
