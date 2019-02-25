@@ -1,2 +1,2 @@
 # NIDAQ_simpleController
-National Instrument社のデジタルアナログ変換器用キャリブレーションプログラム
+National Instrument社のデジタルアナログ変換器用アナログ出力電圧制御プログラム
