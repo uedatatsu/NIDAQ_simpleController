@@ -1,2 +1,5 @@
 # NIDAQ_simpleController
 National Instrument社のデジタルアナログ変換器用アナログ出力電圧制御プログラム
+
+NIのUSB接続のデジタルアナログ変換器をC++で制御する場合に使用できる、最もシンプルなプログラムです。
+
