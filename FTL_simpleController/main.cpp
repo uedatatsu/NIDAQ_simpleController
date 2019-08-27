@@ -23,12 +23,8 @@
 #pragma comment(lib, "NIDAQmx.lib")
 #pragma warning(disable:4996)
 
-
 #define OUTPUT_SAMPS 600  // 1周期分の波形を生成するのに用いるクロック回数
 #define OUTPUT_CLOCK_RATE 36000   // 出力1秒間のクロック回数
-
-#define INPUT_SAMPS 1800// サンプル数
-#define INPUT_CLOCK_RATE  36000// 入力1秒間のクロック回数
 
 #define MAX_VOLT 0.070	// 波形出力時の最大電圧[V]
 #define MIN_VOLT -0.070	// 波形出力時の最小電圧[V]
